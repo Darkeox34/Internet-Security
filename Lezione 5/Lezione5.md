@@ -7,7 +7,7 @@
 > L'attacco è lo sfruttamento della vulnerabilità
 
 ### Come fa un individuo ad autenticarsi?
->Un individuo si identica con la sua
+>Un individuo si identifica con la sua
 carta di identità o documento che sia, per i documenti personali l'associazione tra individuo e documento viene fatta tramite la fotografia.
 
 L'accesso fisico ad un dispositivo, ha esso stesso una possibile strutturazione dal punto di vista offensivo.
